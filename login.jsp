@@ -8,7 +8,7 @@
 </head>
 <body style="background-color: #1c77ac; background-image: url(images/light.png); background-repeat: no-repeat; background-position: center top; overflow: hidden;">
 	<div class="logintop">
-		<span>欢迎登录教务管理辅助系统22</span>
+		<span>欢迎登录教务管理辅助系统2233</span>
 	</div>
 </body>
 </html>
